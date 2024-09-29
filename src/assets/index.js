@@ -10,12 +10,15 @@ import github_blue from "./github_blue.svg";
 import close from "./close.svg";
 import instagram from "./instagram.svg";
 import linkedin from "./linkedin.svg";
-import foodOrder1 from './food-order1.png';
-import foodOrder2 from './food-order2.png';
-import foodOrder3 from './food-order3.png';
-import cryptoPlace1 from './CryptoPlace1.png';
-import cryptoPlace2 from './CryptoPlace2.png';
-import cryptoPlace3 from './CryptoPlace3.png';
+import edusity1 from './edusity-1.png'
+import edusity2 from './edusity-2.png'
+import edusity3 from './edusity-3.png'
+import apple1 from './apple1.png'
+import apple2 from './apple2.png'
+import apple3 from './apple3.png'
+import yoga1 from './yoga1.png'
+import yoga2 from './yoga2.png'
+import yoga3 from './yoga3.png'
 import spotifyClone1 from './spotify-clone1.png';
 import spotifyClone2 from './spotify-clone2.png';
 import spotifyClone3 from './spotify-clone3.png';
@@ -33,14 +36,17 @@ export {
   close,
   instagram,
   linkedin,
-  foodOrder1,
-  foodOrder2,
-  foodOrder3,
-  cryptoPlace1,
-  cryptoPlace2,
-  cryptoPlace3,
+  edusity1,
+  edusity2,
+  edusity3,
   spotifyClone1,
   spotifyClone2,
   spotifyClone3,
+  apple1,
+  apple2,
+  apple3,
+  yoga1,
+  yoga2,
+  yoga3,
   avatar
 };
