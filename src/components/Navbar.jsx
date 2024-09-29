@@ -41,12 +41,12 @@ const Navbar = () => {
 
   return (
     <nav className= {`${bgColor} w-full p-5 flex flex-row justify-between items-center fixed top-0 z-50 transition duration-300`}>
-      <div className={`${textColor} font-semibold`}>Elno Brianardi</div>
+      <div className={`${textColor} font-semibold text-[2.5vh]`}>Elno Brianardi</div>
       <ul className="text-color-2 list-none sm:flex hidden justify-end items-center flex-1">
         {navLinks.map((nav, index) => (
           <li
             key={nav.id}
-            className={`${textColor} font-poppins cursor-pointer text-[16px] font-semibold ${
+            className={`${textColor} font-poppins cursor-pointer text-[2.5vh] font-semibold ${
               index === navLinks.length - 1 ? "mr-0" : "mr-10"
             }`}
           >
@@ -81,7 +81,7 @@ const Navbar = () => {
             ))}
           </ul>
         </motion.div>
-        )}
+          )}
         </AnimatePresence>
       </div>
     </nav>
