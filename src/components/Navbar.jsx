@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { navLinks } from "../constant";
 import { close, menu_blue, menu_yellow, close_yellow, close_blue } from "../assets";
-import { motion } from "framer-motion";
+import { motion, AnimatePresence } from "framer-motion";
 
 const Navbar = () => {
   const [toggle, setToggle] = useState(false);
@@ -65,8 +65,9 @@ const Navbar = () => {
           className="w-6 h-6 object-contain color-black cursor-pointer"
           onClick={() => setToggle(!toggle)}
         />
-        <motion.div key='menu' initial={{opacity: 0, y:-20}} animate={{opacity: toggle ? 1 : 0, y: toggle ? 0 : -20}} exit={{ opacity: 0, y: -20 }} transition={{duration: 0.3, ease: "easeInOut"}} className={`${toggle ? "flex" : "hidden"} p-6 bg-color-2 absolute top-10 -right-5 mx-4 my-2 min-w-[150px] rounded-xl z-10`}
-        >
+        <AnimatePresence>
+          {toggle && (
+        <motion.div key='menu' initial={{opacity: 0, y:-20}} animate={{opacity: toggle ? 1 : 0, y: toggle ? 0 : -20}} exit={{ opacity: 0, y: -20 }} transition={{duration: 0.3, ease: "easeInOut"}} className={`${toggle ? "flex" : "hidden"} p-6 bg-color-2 absolute top-10 -right-5 mx-4 my-2 min-w-[150px] rounded-xl z-10`} >
           <ul className="list-none sm:hidden flex flex-col justify-end items-center flex-1">
             {navLinks.map((nav, index) => (
               <li
@@ -80,6 +81,8 @@ const Navbar = () => {
             ))}
           </ul>
         </motion.div>
+        )}
+        </AnimatePresence>
       </div>
     </nav>
   );
