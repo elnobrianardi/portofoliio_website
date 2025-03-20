@@ -5,13 +5,13 @@ import { leftVariants, rightVariants } from "../../variant";
 
 const Footer = () => {
   return (
-    <section id="footer" className="bg-color-2 mt-10 h-full z-10">
+    <section id="footer" className="z-10 h-full mt-10 bg-color-2">
       <div className="flex flex-row justify-between p-2">
         <motion.div initial='offscreen' whileInView='onscreen' variants={rightVariants} className="text-color-1 m-5 font-semibold text-[2.5vh]">My Socials</motion.div>
         <div>
-          <ul className="flex flex-row text-color-1 font-semibold m-5 ">
+          <ul className="flex flex-row m-5 font-semibold text-color-1 ">
             <a
-              href="http://linkedin.com"
+              href="https://www.linkedin.com/in/elno-brianardi/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -20,7 +20,7 @@ const Footer = () => {
               </li>
             </a>
             <a
-              href="http://github.com"
+              href="https://github.com/elnobrianardi/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -29,7 +29,7 @@ const Footer = () => {
               </li>
             </a>
             <a
-              href="http://gmail.com"
+              href="https://mail.google.com/mail/u/0/?tf=cm&fs=1&to=elno.brianardi@gmail.com"
               target="_blank"
               rel="noopener noreferrer"
             >
