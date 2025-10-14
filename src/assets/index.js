@@ -23,6 +23,12 @@ import spotifyClone1 from './spotify-clone1.png';
 import spotifyClone2 from './spotify-clone2.png';
 import spotifyClone3 from './spotify-clone3.png';
 import avatar from './ReadyPlayerMe-Avatar.png'
+import bitzaro1 from './bitzaro1.png'
+import bitzaro2 from './bitzaro2.png'
+import bitzaro3 from './bitzaro3.png'
+import travel1 from './travel1.png'
+import travel2 from './travel2.png'
+import travel3 from './travel3.png'
 
 export {
   menu_blue,
@@ -48,5 +54,11 @@ export {
   yoga1,
   yoga2,
   yoga3,
-  avatar
+  avatar,
+  bitzaro1,
+  bitzaro2,
+  bitzaro3,
+  travel1,
+  travel2,
+  travel3
 };

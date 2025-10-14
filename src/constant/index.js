@@ -14,6 +14,12 @@ import {
   yoga1,
   yoga2,
   yoga3,
+  bitzaro1,
+  bitzaro2,
+  bitzaro3,
+  travel1,
+  travel2,
+  travel3,
 } from "../assets";
 
 export const navLinks = [
@@ -33,11 +39,26 @@ export const navLinks = [
 
 export const projectImages = [
   {
+    id: bitzaro1,
+    src: bitzaro1,
+    alt: "Bitzaro 1",
+    link: "https://bitzaro-chainup-demo.vercel.app/",
+  },
+  
+  {
+    id: travel2,
+    src: travel2,
+    alt: "Travel 2",
+    link: "https://final-project-bootcamp-chi.vercel.app/",
+  },
+  
+  {
     id: spotifyClone2,
     src: spotifyClone2,
     alt: "Spotify Clone 2",
     link: "https://spotify-clone-sigma-blue.vercel.app/",
   },
+  
   {
     id: apple1,
     src: apple1,
@@ -51,10 +72,22 @@ export const projectImages = [
     link: "https://yoga-website-ten-omega.vercel.app/",
   },
   {
+    id: bitzaro2,
+    src: bitzaro2,
+    alt: "Bitzaro 2",
+    link: "https://bitzaro-chainup-demo.vercel.app/",
+  },
+  {
     id: spotifyClone3,
     src: spotifyClone3,
     alt: "Spotify Clone 3",
     link: "https://spotify-clone-sigma-blue.vercel.app/",
+  },
+  {
+    id: travel1,
+    src: travel1,
+    alt: "Travel 1",
+    link: "https://final-project-bootcamp-chi.vercel.app/",
   },
   {
     id: edusity1,
@@ -93,15 +126,27 @@ export const projectImages = [
     link: "https://edusity-website-wheat.vercel.app/",
   },
   {
+    id: apple3,
+    src: apple3,
+    alt: "Apple 3",
+    link: "https://apple-website-kappa-seven.vercel.app/",
+  },
+  {
     id: yoga3,
     src: yoga3,
     alt: "Yoga 3",
     link: "https://yoga-website-ten-omega.vercel.app/",
   },
   {
-    id: apple3,
-    src: apple3,
-    alt: "Apple 3",
-    link: "https://apple-website-kappa-seven.vercel.app/",
-  }
+    id: bitzaro3,
+    src: bitzaro3,
+    alt: "Bitzaro 3",
+    link: "https://bitzaro-chainup-demo.vercel.app/",
+  },
+  {
+    id: travel3,
+    src: travel3,
+    alt: "Travel 3",
+    link: "https://final-project-bootcamp-chi.vercel.app/",
+  },
 ];
