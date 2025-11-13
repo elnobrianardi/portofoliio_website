@@ -29,6 +29,9 @@ import bitzaro3 from './bitzaro3.png'
 import travel1 from './travel1.png'
 import travel2 from './travel2.png'
 import travel3 from './travel3.png'
+import nagaCrypto1 from './nagacrypto-1.png'
+import nagaCrypto2 from './nagacrypto-2.png'
+import nagaCrypto3 from './nagacrypto-3.png'
 
 export {
   menu_blue,
@@ -60,5 +63,8 @@ export {
   bitzaro3,
   travel1,
   travel2,
-  travel3
+  travel3,
+  nagaCrypto1,
+  nagaCrypto2,
+  nagaCrypto3,
 };

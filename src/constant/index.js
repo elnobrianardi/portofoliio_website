@@ -20,6 +20,9 @@ import {
   travel1,
   travel2,
   travel3,
+  nagaCrypto1,
+  nagaCrypto2,
+  nagaCrypto3,
 } from "../assets";
 
 export const navLinks = [
@@ -39,10 +42,10 @@ export const navLinks = [
 
 export const projectImages = [
   {
-    id: bitzaro1,
-    src: bitzaro1,
-    alt: "Bitzaro 1",
-    link: "https://bitzaro-chainup-demo.vercel.app/",
+    id: nagaCrypto3,
+    src: nagaCrypto3,
+    alt: "Naga Crypto 3",
+    link: "https://naga-crypto-landing-page.vercel.app/",
   },
   
   {
@@ -64,6 +67,12 @@ export const projectImages = [
     src: apple1,
     alt: "Apple 1",
     link: "https://apple-website-kappa-seven.vercel.app/",
+  },
+  {
+    id: nagaCrypto2,
+    src: nagaCrypto2,
+    alt: "Naga Crypto 2",
+    link: "https://naga-crypto-landing-page.vercel.app/",
   },
   {
     id: yoga1,
@@ -90,6 +99,12 @@ export const projectImages = [
     link: "https://final-project-bootcamp-chi.vercel.app/",
   },
   {
+    id: bitzaro1,
+    src: bitzaro1,
+    alt: "Bitzaro 1",
+    link: "https://bitzaro-chainup-demo.vercel.app/",
+  },
+  {
     id: edusity1,
     src: edusity1,
     alt: "Edusity 1",
@@ -112,6 +127,12 @@ export const projectImages = [
     src: edusity2,
     alt: "Edusity 2",
     link: "https://edusity-website-wheat.vercel.app/",
+  },
+  {
+    id: nagaCrypto1,
+    src: nagaCrypto1,
+    alt: "Naga Crypto 1",
+    link: "https://naga-crypto-landing-page.vercel.app/",
   },
   {
     id: apple2,
