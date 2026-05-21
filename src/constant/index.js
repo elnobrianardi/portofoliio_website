@@ -52,14 +52,14 @@ export const projectImages = [
     id: travel2,
     src: travel2,
     alt: "Travel 2",
-    link: "https://https://travel.elno.dev/",
+    link: "https://travel.elno.dev/",
   },
   
   {
     id: spotifyClone2,
     src: spotifyClone2,
     alt: "Spotify Clone 2",
-    link: "https://https://spotify.elno.dev//",
+    link: "https://spotify.elno.dev/",
   },
   
   {
@@ -78,7 +78,7 @@ export const projectImages = [
     id: yoga1,
     src: yoga1,
     alt: "Yoga 1",
-    link: "https://https://yoga.elno.dev/",
+    link: "https://yoga.elno.dev/",
   },
   {
     id: bitzaro2,
@@ -90,13 +90,13 @@ export const projectImages = [
     id: spotifyClone3,
     src: spotifyClone3,
     alt: "Spotify Clone 3",
-    link: "https://https://spotify.elno.dev//",
+    link: "https://spotify.elno.dev/",
   },
   {
     id: travel1,
     src: travel1,
     alt: "Travel 1",
-    link: "https://https://travel.elno.dev/",
+    link: "https://travel.elno.dev/",
   },
   {
     id: bitzaro1,
@@ -108,25 +108,25 @@ export const projectImages = [
     id: edusity1,
     src: edusity1,
     alt: "Edusity 1",
-    link: "https://https://edu.elno.dev//",
+    link: "https://edu.elno.dev/",
   },
   {
     id: yoga2,
     src: yoga2,
     alt: "Yoga 2",
-    link: "https://https://yoga.elno.dev/",
+    link: "https://yoga.elno.dev/",
   },
   {
     id: spotifyClone1,
     src: spotifyClone1,
     alt: "Spotify Clone 1",
-    link: "https://https://spotify.elno.dev/",
+    link: "https://spotify.elno.dev/",
   },
   {
     id: edusity2,
     src: edusity2,
     alt: "Edusity 2",
-    link: "https://https://edu.elno.dev/",
+    link: "https://edu.elno.dev/",
   },
   {
     id: nagaCrypto1,
@@ -144,7 +144,7 @@ export const projectImages = [
     id: edusity3,
     src: edusity3,
     alt: "Edusity 3",
-    link: "https://https://edu.elno.dev//",
+    link: "https://edu.elno.dev/",
   },
   {
     id: apple3,
@@ -156,7 +156,7 @@ export const projectImages = [
     id: yoga3,
     src: yoga3,
     alt: "Yoga 3",
-    link: "https://https://yoga.elno.dev/",
+    link: "https://yoga.elno.dev/",
   },
   {
     id: bitzaro3,
@@ -168,6 +168,6 @@ export const projectImages = [
     id: travel3,
     src: travel3,
     alt: "Travel 3",
-    link: "https://https://travel.elno.dev/",
+    link: "https://travel.elno.dev/",
   },
 ];
