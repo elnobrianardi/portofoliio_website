@@ -66,7 +66,7 @@ export const projectImages = [
     id: apple1,
     src: apple1,
     alt: "Apple 1",
-    link: "https://apple.elno.dev/",
+    link: "https://appleporto.elno.dev/",
   },
   {
     id: nagaCrypto2,
@@ -138,7 +138,7 @@ export const projectImages = [
     id: apple2,
     src: apple2,
     alt: "Apple 2",
-    link: "https://apple.elno.dev/",
+    link: "https://appleporto.elno.dev/",
   },
   {
     id: edusity3,
@@ -150,7 +150,7 @@ export const projectImages = [
     id: apple3,
     src: apple3,
     alt: "Apple 3",
-    link: "https://apple.elno.dev/",
+    link: "https://appleporto.elno.dev/",
   },
   {
     id: yoga3,
