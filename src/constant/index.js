@@ -52,21 +52,21 @@ export const projectImages = [
     id: travel2,
     src: travel2,
     alt: "Travel 2",
-    link: "https://final-project-bootcamp-chi.vercel.app/",
+    link: "https://https://travel.elno.dev/",
   },
   
   {
     id: spotifyClone2,
     src: spotifyClone2,
     alt: "Spotify Clone 2",
-    link: "https://spotify-clone-sigma-blue.vercel.app/",
+    link: "https://https://spotify.elno.dev//",
   },
   
   {
     id: apple1,
     src: apple1,
     alt: "Apple 1",
-    link: "https://apple-website-kappa-seven.vercel.app/",
+    link: "https://apple.elno.dev/",
   },
   {
     id: nagaCrypto2,
@@ -78,7 +78,7 @@ export const projectImages = [
     id: yoga1,
     src: yoga1,
     alt: "Yoga 1",
-    link: "https://yoga-website-ten-omega.vercel.app/",
+    link: "https://https://yoga.elno.dev/",
   },
   {
     id: bitzaro2,
@@ -90,13 +90,13 @@ export const projectImages = [
     id: spotifyClone3,
     src: spotifyClone3,
     alt: "Spotify Clone 3",
-    link: "https://spotify-clone-sigma-blue.vercel.app/",
+    link: "https://https://spotify.elno.dev//",
   },
   {
     id: travel1,
     src: travel1,
     alt: "Travel 1",
-    link: "https://final-project-bootcamp-chi.vercel.app/",
+    link: "https://https://travel.elno.dev/",
   },
   {
     id: bitzaro1,
@@ -108,25 +108,25 @@ export const projectImages = [
     id: edusity1,
     src: edusity1,
     alt: "Edusity 1",
-    link: "https://edusity-website-wheat.vercel.app/",
+    link: "https://https://edu.elno.dev//",
   },
   {
     id: yoga2,
     src: yoga2,
     alt: "Yoga 2",
-    link: "https://yoga-website-ten-omega.vercel.app/",
+    link: "https://https://yoga.elno.dev/",
   },
   {
     id: spotifyClone1,
     src: spotifyClone1,
     alt: "Spotify Clone 1",
-    link: "https://spotify-clone-sigma-blue.vercel.app/",
+    link: "https://https://spotify.elno.dev/",
   },
   {
     id: edusity2,
     src: edusity2,
     alt: "Edusity 2",
-    link: "https://edusity-website-wheat.vercel.app/",
+    link: "https://https://edu.elno.dev/",
   },
   {
     id: nagaCrypto1,
@@ -138,25 +138,25 @@ export const projectImages = [
     id: apple2,
     src: apple2,
     alt: "Apple 2",
-    link: "https://apple-website-kappa-seven.vercel.app/",
+    link: "https://apple.elno.dev/",
   },
   {
     id: edusity3,
     src: edusity3,
     alt: "Edusity 3",
-    link: "https://edusity-website-wheat.vercel.app/",
+    link: "https://https://edu.elno.dev//",
   },
   {
     id: apple3,
     src: apple3,
     alt: "Apple 3",
-    link: "https://apple-website-kappa-seven.vercel.app/",
+    link: "https://apple.elno.dev/",
   },
   {
     id: yoga3,
     src: yoga3,
     alt: "Yoga 3",
-    link: "https://yoga-website-ten-omega.vercel.app/",
+    link: "https://https://yoga.elno.dev/",
   },
   {
     id: bitzaro3,
@@ -168,6 +168,6 @@ export const projectImages = [
     id: travel3,
     src: travel3,
     alt: "Travel 3",
-    link: "https://final-project-bootcamp-chi.vercel.app/",
+    link: "https://https://travel.elno.dev/",
   },
 ];
